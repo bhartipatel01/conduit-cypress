@@ -8,5 +8,9 @@ All the cypress tests are inside below directory
 
 cypress-code/cypress/integration/bharti
 
+I have completed end to end testing for frond end app and API testing for back end app.
+
 ![Screenshot](cypress-code/images/snapshot1.png)
+
+
 
