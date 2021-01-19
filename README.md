@@ -7,3 +7,5 @@ once both applications are setup and running, and repo is cloned, please go to c
 All the cypress tests are inside below directory
 cypress-code/cypress/integration/bharti
 
+![Screenshot](cypress-code/images/snapshot1.png)
+
